@@ -1,5 +1,5 @@
 public class Foo {
-    public static boolean myMethod() {
+        public static boolean myMethod() {
         return true;
     }
 }
