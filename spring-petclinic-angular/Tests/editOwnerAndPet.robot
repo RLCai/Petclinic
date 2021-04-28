@@ -89,3 +89,4 @@ User Can Edit Pet_2
     Click Button       id:type
     Click Button       xpath://*[@id="type"]/option[1]
     Click Button       xpath://html/body/app-root/app-pet-edit/div/div/form/div[6]/div/button[2]
+    Verify Loaded        Cello
